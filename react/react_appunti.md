@@ -1,32 +1,51 @@
 # appunti react
 
 
-React Fundamentals
+
+## command line
+
+
+npm start  (Start the react native packager)
+
+npm run ios
+
+   _oppure_
+   
+react-native run-ios
+
+react-native run-android --deviceId 91HECNN22YWN
+
+
+
+## risorse 
+
+
+- React Fundamentals
 https://github.com/shoaibbhimani/React-Tutorial
 
-Redux Tutorials
+- Redux Tutorials
 https://github.com/shoaibbhimani/learn-redux-tutorial
 
-Redux Short Series
-- Redux Thunk https://codesandbox.io/s/vnkv2v1jzy
+- Redux Thunk 
+https://codesandbox.io/s/vnkv2v1jzy
 
-- Redux Forms https://github.com/shoaibcode/redux-form-tutorial
+- Redux Forms 
+https://github.com/shoaibcode/redux-form-tutorial
 
-
-React Router Version 4
+- React Router Version 4
 https://github.com/shoaibbhimani/React-Router-V4
 
-Jest Tutorials
+- Jest Tutorials
 https://github.com/shoaibbhimani/Jest-Js-Testing-Tutorial
 
-Mobx Tutorials
+- Mobx Tutorials
 https://github.com/shoaibbhimani/Mobx-React-Tutorial-Series
 
-Mobxgram Tutorial
+- Mobxgram Tutorial
 https://github.com/shoaibbhimani/Mobxgram-Tutorial
 
-Understand Async and Await ES6
-https://codesandbox.io/s/xl1rm7r1p
 
-Understanding Generators ES6
-https://codesandbox.io/s/ry0rn94o7m
+## risorse boilerplate
+
+boilerplate che include librerie firebase (db/storage/auth.. ecc) 
+https://github.com/invertase/react-native-firebase-starter
