@@ -11,7 +11,7 @@
 
 ## progetti
 
-[camerapp.com]({{ site.baseurl }}{% link projects/camerapp.md %})
+[to-do camerapp]({{ site.baseurl }}{% link projects/camerapp.md %})
 
 
 ## software open
