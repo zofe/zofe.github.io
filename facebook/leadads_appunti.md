@@ -28,7 +28,7 @@ https://developers.facebook.com/docs/facebook-login/access-tokens#extending
 https://developers.facebook.com/tools/lead-ads-testing
   
 - strumento di debug per ottenere/estendere chiavi di accesso
-https://developers.facebook.com/tools/debug/accesstoken/?access_token=EAACxb7G4HKEBAMr7bC8fv9D587MZAskTXpoOWwJ3hebGWBKFqoiTkDGx1MWlW9RePCp5Fhex0MteJZBwnFaZB4l3s3UgnpCX6TxhUnlVl9HfL9kUFbt6ZBheePkXEZAqb0kOgaHrjkYG7xpkd5vkIJ9svl8MDpghbaeS1ZAOktGh4YnAS6EBxc&version=v3.0
+https://developers.facebook.com/tools/debug/accesstoken/?access_token=xxx&version=v3.0
   
 -spiegazioni su ottenimento access-token permanenti
 https://stackoverflow.com/questions/17197970/facebook-permanent-page-access-token
