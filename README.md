@@ -1,11 +1,10 @@
 # zofe.github.io
 
 
-
 ## appunti 
 
 
-[laravel]({{ site.baseurl }}{% link react/laravel_appunti.md %})
+[laravel]({{ site.baseurl }}{% link laravel/laravel_appunti.md %})
 
 [react]({{ site.baseurl }}{% link react/react_appunti.md %})
 
