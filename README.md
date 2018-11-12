@@ -13,10 +13,13 @@
 
 [facebook leadads]({{ site.baseurl }}{% link facebook/leadads_appunti.md %})
 
+[docker]({{ site.baseurl }}{% link docker/docker_appunti.md %})
+
 ## progetti
 
 [to-do camerapp]({{ site.baseurl }}{% link projects/camerapp.md %})
 
 
 ## software open
+
 
