@@ -14,7 +14,7 @@ curl \
   -F "callback_url=https://www.mysite.it/webhook/facebook-lead-ads" \ 
   -F "fields=leadgen" \ 
   -F "verify_token=mytoken" \ 
-  -F "access_token=19xxxxx|qUb46PY4EiutQnlOvUOYAQpB708" \ 
+  -F "access_token=19xxxxx|qUb46PYxxx" \ 
   "https://graph.facebook.com/v2.5/19xxxxx/subscriptions"
  
 - Receiving Facebook Leads on a Webhook
